@@ -1,0 +1,3 @@
+[submodule "themes/usafl-wordpress-theme"]
+	path = themes/usafl-wordpress-theme
+	url = https://github.com/raddick/usafl-wordpress-theme.git
